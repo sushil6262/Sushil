@@ -108,7 +108,7 @@ UI/UX Design" transform="translate(106 1768)" font-size="40" font-family="Centur
         </g>
       </g>
       <text id="Education" transform="translate(962 1552)" fill="#2a2a2a" font-size="50" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Education</tspan></text>
-      <text id="Experience" transform="translate(962 2388)" fill="#2a2a2a" font-size="50" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Experience</tspan></text>
+      <text id="Project_Experience" data-name="Project Experience" transform="translate(962 2388)" fill="#2a2a2a" font-size="50" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Project Experience</tspan></text>
       <line id="Line_8" data-name="Line 8" x2="1383" transform="translate(962.5 1599.5)" fill="none" stroke="#000" stroke-width="5"/>
       <line id="Line_10" data-name="Line 10" x2="1383" transform="translate(962.5 2435.5)" fill="none" stroke="#000" stroke-width="5"/>
       <text id="MCA_2015-2018_" data-name="MCA ( 2015-2018 )" transform="translate(966 1674)" font-size="36" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">MCA ( 2015-2018 )</tspan></text>
