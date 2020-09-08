@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2480" height="3508" viewBox="0 0 2480 3508">
   <defs>
-    <clipPath id="clip-custom_1">
+    <clipPath id="clip-image">
       <rect width="2480" height="3508"/>
     </clipPath>
   </defs>
-  <g id="custom_1" data-name="custom – 1" clip-path="url(#clip-custom_1)">
+  <g id="image" clip-path="url(#clip-image)">
     <rect width="2480" height="3508" fill="#fff"/>
     <g id="Group_15" data-name="Group 15">
       <rect id="Rectangle_1" data-name="Rectangle 1" width="2480" height="1306" transform="translate(2)" fill="#f33"/>
@@ -105,15 +105,12 @@ UI/UX Design" transform="translate(106 1768)" font-size="40" font-family="Centur
       <g id="Group_14" data-name="Group 14" transform="translate(0 134)">
         <g id="Group_13" data-name="Group 13">
           <text id="MCA_2015-2018_2" data-name="MCA ( 2015-2018 )" transform="translate(966 2380)" font-size="36" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Agency App </tspan><tspan x="0" y="44">(Android &amp; IOS)</tspan></text>
-          <text id="MCA_2015-2018_3" data-name="MCA ( 2015-2018 )" transform="translate(966 2464)" font-size="30" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0">(Aug 2019 - present)</tspan></text>
         </g>
         <text id="New_Horizon_College_of_Engineering_Autonomous_College_permanently_Affliated_to_VTU_2" data-name="New Horizon College of Engineering (Autonomous College permanently Affliated to VTU)  " transform="translate(1342 2382)" font-size="36" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0">It&apos;s a mobile wallet app for Android and IOS that allows you</tspan><tspan x="0" y="45">to send, receive and store cryptocurrency tokens on the </tspan><tspan x="0" y="90">Ethereum blockchain, which allows users to store private </tspan><tspan x="0" y="135">keys on their own device, an important security feature, and</tspan><tspan x="0" y="180">includes a backup facility for simple recovery.</tspan></text>
       </g>
-      <text id="MCA_2015-2018_4" data-name="MCA ( 2015-2018 )" transform="translate(966 2886)" font-size="36" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">GXbrokerage</tspan></text>
-      <text id="MCA_2015-2018_5" data-name="MCA ( 2015-2018 )" transform="translate(966 2930)" font-size="30" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0">(May 2019 - Jun 2019)</tspan></text>
+      <text id="MCA_2015-2018_3" data-name="MCA ( 2015-2018 )" transform="translate(966 2886)" font-size="36" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">GXbrokerage</tspan></text>
       <text id="New_Horizon_College_of_Engineering_Autonomous_College_permanently_Affliated_to_VTU_3" data-name="New Horizon College of Engineering (Autonomous College permanently Affliated to VTU)  " transform="translate(1342 2888)" font-size="36" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0">It &apos;s a web-based application where user gets License for </tspan><tspan x="0" y="45">GXBroker and buy GXTokens For Launching their </tspan><tspan x="0" y="90">GXBrokerage using different payment method such as </tspan><tspan x="0" y="135">Bitcoin, Ethereum, Wire-Transfer and E-transfer(Interact).</tspan></text>
-      <text id="MCA_2015-2018_6" data-name="MCA ( 2015-2018 )" transform="translate(966 3212)" font-size="36" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Nvest Wallet </tspan><tspan x="0" y="44">(Chrome Extension)</tspan></text>
-      <text id="MCA_2015-2018_7" data-name="MCA ( 2015-2018 )" transform="translate(966 3302)" font-size="30" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0">Feb 2019 - Mar 2019</tspan></text>
+      <text id="MCA_2015-2018_4" data-name="MCA ( 2015-2018 )" transform="translate(966 3212)" font-size="36" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">Nvest Wallet </tspan><tspan x="0" y="44">(Chrome Extension)</tspan></text>
       <text id="New_Horizon_College_of_Engineering_Autonomous_College_permanently_Affliated_to_VTU_4" data-name="New Horizon College of Engineering (Autonomous College permanently Affliated to VTU)  " transform="translate(1342 3214)" font-size="36" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0">It&apos;s a browser plugin that allows users to make Ethereum </tspan><tspan x="0" y="45">transactions through regular websites. It facilitates the </tspan><tspan x="0" y="90">adoption of Ethereum because it bridges the gap between </tspan><tspan x="0" y="135">the user interfaces for Ethereum.</tspan><tspan x="0" y="180"></tspan><tspan x="0" y="225"></tspan></text>
       <text id="BCA_2011-2014_" data-name="BCA ( 2011-2014 )" transform="translate(971 1816)" font-size="36" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">BCA ( 2011-2014 )</tspan></text>
       <text id="Asian_Institute_of_Management_and_Science_Punjab_Technical_University_Guwahati_" data-name="Asian Institute of Management and Science (Punjab Technical University , Guwahati)  " transform="translate(1342 1815)" font-size="36" font-family="CenturyGothic, Century Gothic"><tspan x="0" y="0">Asian Institute of Management and Science</tspan><tspan x="0" y="45">(Punjab Technical University , Guwahati) </tspan></text>
